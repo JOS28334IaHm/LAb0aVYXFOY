@@ -11,7 +11,6 @@ name = "sherlock-project"
 # single source of truth for version is __init__.py
 version = "0"
 description = "Hunt down social media accounts by username across social networks"
-license = "MIT"
 authors = [
     "Siddharth Dushantha <siddharth.dushantha@gmail.com>"
 ]
