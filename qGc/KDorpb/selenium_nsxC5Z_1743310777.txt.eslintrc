@@ -42,7 +42,6 @@
     }
   ],
   "rules": {
-    "eqeqeq": [
       "error",
       "smart"
     ],
