@@ -6,7 +6,6 @@ inp = sys.argv[1].upper()
 
 
 if inp in classes:
-    open_link(classes[inp])
 elif inp == '-T':
     print()
     classes_today()
