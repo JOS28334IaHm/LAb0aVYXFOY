@@ -137,7 +137,6 @@ Bilibili/B站视频教程:
 
 [从源代码编译程序并设计运行和调试任务指南（基于Ubuntu24.04）](https://www.bilibili.com/video/BV1VE421P7yj/)
 
-Refer to [Youtube Playlist](https://youtube.com/playlist?list=PL0kEFEkWrT7mt9MUlEBV2DTo1QsaanUTp) to see the video tutorials of EasySpider.
 
 ## 样例任务/Sample Tasks
 
